@@ -1,5 +1,10 @@
 # udemy-cpp
 Artefacts, solutions, etc. for doing the udemy-c++ course
 
-# Use Eclipse for C++
-See [Eclipse For C++: How To Install, Setup And Use Eclipse For C++](https://www.softwaretestinghelp.com/eclipse-for-cpp/)
+# Use VSCode for C++
+See [Using C++ on Linux in VS Code](https://code.visualstudio.com/docs/cpp/config-linux)
+Also install gcc and gdb using
+
+````
+$ sudo dnf -y install gcc gdb
+````
