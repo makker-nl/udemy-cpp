@@ -8,3 +8,7 @@ Also install gcc and gdb using
 ````
 $ sudo dnf -y install gcc gdb
 ````
+
+# Chapter 3
+
+[CPP Keywords](https://en.cppreference.com/w/cpp/keyword)
